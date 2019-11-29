@@ -81,7 +81,7 @@ public class DataBaseExplorer {
     private void createUpdatedTable(int id, int trf, int tgtTb, int tgtLab, int srcTb, int srcLab, int impact) throws SQLException {
 
         //this function is responsible for creating the new row in the oa-trf-src-red table
-        statement.executeUpdate("create table IF NOT EXISTS \"oa-trf-src-red\" " +
+        _statement.executeUpdate("create table IF NOT EXISTS \"oa-trf-src-red\" " +
                 "(id integer ," +
                 "trf integer," +
                 "tgtTb integer," +
