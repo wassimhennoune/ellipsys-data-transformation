@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="sample" uuid="7bdb2598-801e-4fb5-88fe-22e63b0be879">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:C:\Users\pc\IdeaProjects\untitled\sample.db</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="ellipsys_test_db" uuid="e5ac5bf5-50e4-4f02-8166-e4c4695dc627">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:C:\Users\pc\IdeaProjects\untitled\src\ellipsys_test_db.db3</jdbc-url>
+    </data-source>
+  </component>
+</project>

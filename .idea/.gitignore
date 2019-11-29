@@ -1,0 +1,6 @@
+# Default ignored files
+/workspace.xml
+../myDataBase.db
+../sample.db
+# Datasource local storage ignored files
+/dataSources.local.xml
